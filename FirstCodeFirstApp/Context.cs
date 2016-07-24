@@ -5,6 +5,7 @@ using System.Text;
 using System.Data.Entity;
 using System.Threading.Tasks;
 
+//没一点诚意
 namespace FirstCodeFirstApp
 {
    public class Context:DbContext
